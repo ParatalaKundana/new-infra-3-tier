@@ -1,6 +1,6 @@
 # Create an S3 Bucket
 resource "aws_s3_bucket" "example_bucket" {
-  bucket = "terraform-0001-swiggy"
+  bucket = "terraform-0001-swiggy_902"
 
   # Enable versioning
   versioning {
